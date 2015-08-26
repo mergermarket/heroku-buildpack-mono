@@ -5,7 +5,7 @@
 set -e
 
 DEPENDENCY_S3_BUCKET_PATH="http://s3.amazonaws.com/mono-dependencies"
-MONO_VERSION="3.10.0"
+MONO_VERSION="3.10.0-full"
 XSP_VERSION="8a31bc625727594d42f94173768bee5cf8afd0a4"
 
 BUILD_DIR=$1
